@@ -1,0 +1,28 @@
+.fondo {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(160, 160, 129)
+}
+.carrusel{
+    background-image: url('https://arcticmonkeys.com/wp-content/uploads/2022/08/im-not-a-wall.jpeg');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    }
+.fondo1 {
+    font-family: 'Arial', sans-serif;
+	background-image: url('https://arcticmonkeys.com/wp-content/uploads/2022/08/im-not-a-wall.jpeg');
+    background-size: auto; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    
+    background-color: rgb(160, 160, 129)
+}
+.fondo2 {
+    font-family: 'Arial', sans-serif;
+	background-image: url('https://arcticmonkeys.com/wp-content/uploads/2022/08/im-not-a-wall.jpeg');
+    background-size: auto; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    
+    background-color: rgb(160, 160, 129)
+}
